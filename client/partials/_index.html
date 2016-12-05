@@ -1,0 +1,46 @@
+<div class="main_container-fluid">
+  <div class="header">
+      <img class="img-responsive" src="./static/images/Beau Soleil 2016 art.jpg"/>
+      <div class="header_text">
+        <h2>Search BeauSoleil Albums or Songs:</h2>
+        <input ng-model="searchText" placeholder="Song or Album name..." />
+      </div>
+      <h4>Scroll horizontal for more albums --></h4>
+  </div>
+  <div class="row">
+    <div id="albums">
+      <div class="img-thumbnail" ng-repeat="album in albums | orderBy:'-year' | filter:searchText">
+        <a href="{{album.imgUrl}}"><img ng-src="{{album.image}}" alt="{{album.title}}"></a>
+        <div class="text">
+          <h5>{{album.title}}<br />({{album.year}})</h5>
+        </div>
+        <br />
+          <div class="dropdown"
+            <button class="dropbtn">Songs:</button>
+          <div class="dropdown-content" ng-repeat="song in album.songs track by $index">
+            <h4>{{album.songs[0]}}</h4>
+            <h4>{{album.songs[1]}}</h4>
+            <h4>{{album.songs[2]}}</h4>
+            <h4>{{album.songs[3]}}</h4>
+            <h4>{{album.songs[4]}}</h4>              <h4>{{album.songs[5]}}</h4>
+            <h4>{{album.songs[6]}}</h4>              <h4>{{album.songs[7]}}</h4>
+            <h4>{{album.songs[8]}}</h4>
+            <h4>{{album.songs[9]}}</h4>
+            <h4>{{album.songs[10]}}</h4>
+            <h4>{{album.songs[11]}}</h4>
+            <h4>{{album.songs[12]}}</h4>
+            <h4>{{album.songs[13]}}</h4>
+            <h4>{{album.songs[14]}}</h4>         <h4>{{album.songs[15]}}</h4>
+            <h4>{{album.songs[16]}}</h4>
+            <h4>{{album.songs[17]}}</h4>
+            <h4>{{album.songs[18]}}</h4>
+            <h4>{{album.songs[19]}}</h4>
+            <h4>{{album.songs[20]}}</h4>
+            <h4>{{album.songs[19]}}</h4>
+            <h4>{{album.songs[18]}}</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,124 @@
+* {
+  background-color: black;
+  color: grey;
+  font-family: "Tahoma", sans-serif;
+}
+.header {
+  width: auto;
+  height: auto;
+  margin-left: 60px;
+  margin-right: auto;
+}
+.header img {
+  width: 300px;
+  height: 300px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.header_text {
+  width: auto;
+  height: auto;
+  margin-left: 50px;
+  display: inline-block;
+  position: absolute;
+  margin-top: 100px;
+}
+.header h4 {
+  margin-left: 50px;
+}
+input {
+  font-size: 14px;
+  width: 300px;
+  height: auto;
+  padding: 5px;
+  margin-left: 60px;
+}
+#albums {
+  width: 1200px;
+  height: 600px;
+  display: inline-flex;
+  overflow: scroll;
+  margin-left: 80px;
+}
+@media (max-width: 1400px){
+  #albums {
+    width: 1000px;
+    display: inline-flex;
+    overflow:scroll;
+    margin-left: 80px;
+  }
+}
+@media (max-width: 1200px){
+  #albums {
+    width: 800px;
+    display: inline-flex;
+    overflow: scroll;
+    margin-left: 60px;
+  }
+}
+@media (max-width: 800px){
+  #albums {
+    width: 600px;
+    display: inline-flex;
+    overflow:scroll;
+    margin-left: 40px;
+  }
+}
+@media (max-width: 400px){
+  #albums {
+    width: 400px;
+    display: inline-flex;
+    overflow:scroll;
+    margin-left: 20px;
+  }
+}
+.img-thumbnail {
+  width: 200px;
+  height: 220px;
+  /*margin-top: 20px;*/
+  margin-bottom: 10px;
+  border: 2px solid grey;
+}
+.img-thumbnail img {
+  width: 190px;
+  height: 150px;
+  margin: 5px;
+}
+.text h5 {
+  text-align: center;
+  margin-top: 1px;
+  line-height: 1;
+  height: 20px;
+}
+.dropdown {
+  margin-top: 5px;
+  background-color: grey;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: default;
+  position: relative;
+  display: inline-block;
+}
+.dropdown:hover, .dropdown:focus {
+  background-color: orange;
+}
+.dropdown-content {
+  color: grey;
+  margin-top: 20px;
+  display: block;
+  position: absolute;
+  width: 200px;
+  margin-left: -20px;
+}
+.dropdown-content h4 {
+  line-height: 1;
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+}
+.dropdown-content h4:hover {
+  color: orange;
+}
