@@ -9,3 +9,7 @@
 * CSS (not bootstrap)
 * HTML
 * Javascript
+
+##Dependencies:
+*bower_components
+*node_modules
