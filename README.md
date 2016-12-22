@@ -11,5 +11,5 @@
 * Javascript
 
 ##Dependencies:
-*bower_components
-*node_modules
+* bower_components
+* node_modules
