@@ -1,4 +1,4 @@
-{
+({
 	"title" : "From Bamako to Carencro",
 	"year" : "2013",
 	"songs" : [
@@ -16,8 +16,8 @@
 	],
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/81ab2sfYhML._SL1194_.jpg",
 	"imgUrl" : "https://www.amazon.com/Bamako-Carencro-Beausoleil/dp/B00AA9QJI8/ref=sr_1_1?s=music&ie=UTF8&qid=1480634219&sr=1-1&keywords=beausoleil+from+bamako+to+carencro"
-}
-{
+})
+({
 	"title" : "Alligator Purse",
 	"year" : "2009",
 	"songs" : [
@@ -37,8 +37,8 @@
 	],
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51Fptm9f6BL.jpg",
 	"imgUrl" : "https://www.amazon.com/Alligator-Purse-Beausoleil/dp/B001KZLI8C/ref=sr_1_1?s=music&ie=UTF8&qid=1480634353&sr=1-1&keywords=beausoleil+alligator+purse"
-}
-{
+})
+({
 	"title" : "Make the Veiller",
 	"year" : "2009",
 	"songs" : [
@@ -59,8 +59,8 @@
 	],
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51SXYS7nOzL.jpg",
 	"imgUrl" : "https://www.amazon.com/Make-Veiller-CD-DVD-Deluxe/dp/B0025X4P3S/ref=sr_1_1?s=music&ie=UTF8&qid=1480634414&sr=1-1&keywords=beausoleil+make+the+veiller"
-}
-{
+})
+({
 	"title" : "Encore, Encore!! The Best of BeauSoleil (1991-2001)",
 	"year" : "2003",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51PGEYPJKGL.jpg",
@@ -86,8 +86,8 @@
 		"Recherche D'Acadie",
 		"Varise (Live,2000)"
 	]
-}
-{
+})
+({
 	"title" : "Best of the Crawfish Years",
 	"year" : "2001",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/5119szy%2BpcL.jpg",
@@ -111,8 +111,8 @@
 		"Johnny Peut Pas Dancer",
 		"Bon Temps Rouler"
 	]
-}
-{
+})
+({
 	"title" : "The Very Best of BeauSoleil",
 	"year" : "1998",
 	"image" : "https://img.discogs.com/zB7aeoNC59ovVhMdptN6qBkIalg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6688893-1424666372-8543.jpeg.jpg",
@@ -137,8 +137,8 @@
 		"R.D.Special",
 		"Zydeco X"
 	]
-}
-{
+})
+({
 	"title" : "The Best of BeauSoleil",
 	"year" : "1997",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/61a47OiUWOL.jpg",
@@ -167,8 +167,8 @@
 		"La Valse Du Vacher",
 		"Hot Chili Mama"
 	]
-}
-{
+})
+({
 	"title" : "Vintage BeauSoleil: Live Music of the World",
 	"year" : "1995",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51V1zDfmNPL.jpg",
@@ -188,8 +188,8 @@
 		"Maman Rosin",
 		"Take It To Me"
 	]
-}
-{
+})
+({
 	"title" : "Laissez Les Bons Temps Rouler",
 	"year" : "2010",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/71eJSWdbZKL._SL1073_.jpg",
@@ -212,8 +212,8 @@
 		"Chanson D'Acadie",
 		"Reel de Nez-Pique"
 	]
-}
-{
+})
+({
 	"title" : "Live at the 2008 New Orleans Jazz Festival",
 	"year" : "2009",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/6163SZKD64L.jpg",
@@ -232,8 +232,8 @@
 		"Poison Love",
 		"La Terre de Mon Grandpere"
 	]
-}
-{
+})
+({
 	"title" : "Live in Louisiana",
 	"year" : "2006",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51N2KBBA7WL.jpg",
@@ -252,8 +252,8 @@
 		"Newz Reel",
 		"Bye Bye Boozoo"
 	]
-}
-{
+})
+({
 	"title" : "Looking Back Tomorrow",
 	"year" : "2001",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/71wcVXek40L._SL1083_.jpg",
@@ -275,8 +275,8 @@
 		"Perky Dance Two-Step",
 		"Bon Soir, Tous Mes Amis"
 	]
-}
-{
+})
+({
 	"title" : "Cajunization",
 	"year" : "1999",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/61QcijUCPuL.jpg",
@@ -296,8 +296,8 @@
 		"One-Step A Choupique",
 		"Atchafalaya Pipeline"
 	]
-}
-{
+})
+({
 	"title" : "L'Amour Ou La Folie",
 	"year" : "1997",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51fl9GRjl8L.jpg",
@@ -318,8 +318,8 @@
 		"Courir Avec Walker",
 		"Ma Vie S'est Arretee"
 	]
-}
-{
+})
+({
 	"title" : "Arc de Triomphe Two-Step",
 	"year" : "1997",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/417SEMBWWXL.jpg",
@@ -338,8 +338,8 @@
 		"Valse De Grand Chemin",
 		"Just Because"
 	]
-}
-{
+})
+({
 	"title" : "L'Echo",
 	"year" : "1994",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51uI0wF8x0L.jpg",
@@ -361,8 +361,8 @@
 		"Hip Et Ti-Yeaux!",
 		"La Belle De Bayou Teche"
 	]
-}
-{
+})
+({
 	"title" : "La Danse de la Vie",
 	"year" : "1993",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/41tPqjiRfqL.jpg",
@@ -381,8 +381,8 @@
 		"Je Tombe aux Genoux",
 		"Attrape Mes Larmes (Pour Dewey)"
 	]
-}
-{
+})
+({
 	"title" : "Cajun Conja",
 	"year" : "1991",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51zRcj03x3L.jpg",
@@ -401,8 +401,8 @@
 		"La Valse De La Poussiere",
 		"Tasso/McGee's Reel"
 	]
-}
-{
+})
+({
 	"title" : "Bayou Cadillac",
 	"year" : "1989",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/41YCwhYlTBL.jpg",
@@ -421,8 +421,8 @@
 		"Macaque Sur Mon Dos",
 		"Island Zydeco"
 	]
-}
-{
+})
+({
 	"title" : "Hot Chili Mama",
 	"year" : "1987",
 	"image" : "https://images-na.ssl-images-amazon.com/images/I/51CEYpI8DVL.jpg",
@@ -442,8 +442,8 @@
 		"Belle",
 		"Oberlin Two-Step"
 	]
-	}
-  {
+	})
+  ({
   	"title" : "Belizaire The Cajun (soundtrack)",
   	"year" : "1986",
   	"image" : "https://images-na.ssl-images-amazon.com/images/I/51oAM-1UUML._SS500.jpg",
@@ -465,8 +465,8 @@
   		"La Visite Au Condamne",
   		"Closing Theme (Madame Sosthene)"
 			]
-  }
-  {
+  })
+  ({
   	"title" : "Zydeco Gris Gris",
   	"year" : "1985",
   	"image" : "https://img.discogs.com/qnvuWKCmzRpUASG_oi-g01yEa7E=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2207838-1273866787.jpeg.jpg",
@@ -486,8 +486,8 @@
   		"Les Barres De La Prison",
   		"Hommage Aux Freres Balfa"
   	]
-  }
-  {
+  })
+  ({
   	"title" : "Dit BeauSoleil",
   	"year" : "1982",
   	"image" : "https://images-na.ssl-images-amazon.com/images/I/91Z-mqXAB5L._SL1500_.jpg",
@@ -507,7 +507,7 @@
   		"Les Petits Yeux Noirs",
   		"Le Bozo Two-Step"
   	]
-  }
+  })
   {
   	"title" : "Bayou Deluxe",
   	"year" : "1993",
@@ -759,7 +759,7 @@
   		"Rond, Rond, p'tit Marais",
   		"Les Maringouins ont Tous Mange Ma Belle",
   		"Allons Danser, Colinda",
-  		"La Chnason de Cinquante Sous",
+  		"La Chanson de Cinquante Sous",
   		"Aveine, Aveine",
   		"Johnny Peut Pas Danser",
   		"La Petit Poule Blanche/Fais Do Do"

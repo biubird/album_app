@@ -8,7 +8,7 @@
   </div>
   <div class="container-fluid">
     <h2>Search Results:</h2>
-    <div class="img-thumbnail_search" ng-repeat="album in albums | filter: searchText | orderBy:'-year'" ng-if="searchText">
+    <div class="img-thumbnail_search" ng-repeat="album in albums orderBy:'-year'| filter: searchText" ng-if="searchText">
       <div class="col-xs-4 letter-box_search">
         <img ng-src="{{album.image}}" ng-cropper ng-cropper-show="showEvent" width="220" height="220" alt="{{album.name}}" />
         <div class="text_results">
@@ -24,7 +24,7 @@
     </div>
     <hr />
     <h2>All Albums:</h2>
-      <div class="img-thumbnail" ng-repeat="album in albums track by $index" ng-if="$index%4==0">
+      <div class="img-thumbnail" ng-repeat="album in albums | orderBy: '-year' track by $index" ng-if="$index%4==0">
         <div class="col-xs-4 letter-box" ng-repeat="i in [$index, $index+1, $index+2, $index+3]" ng-if="albums[i]!=null">
           <img ng-src="{{albums[i].image}}" alt="{{albums[i].title}}" ng-cropper ng-cropper-show="showEvent" width="220" height="220">
             <div class="text">
@@ -34,4 +34,5 @@
         </div>
       </div>
   </div>
+  <h4>Powered <a href="http://biubird.com">biubird</a> 2016</h4>
 </div>
