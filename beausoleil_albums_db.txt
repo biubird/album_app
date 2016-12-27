@@ -1,0 +1,883 @@
+{
+	"title" : "From Bamako to Carencro",
+	"year" : "2013",
+	"songs" : [
+		"Two-Step de Port Arthur",
+		"La Douceur",
+		"Bamako",
+		"Carencro",
+		"Chanson de Cinquante Sous",
+		"Les Barres de la Prison",
+		"Bessie's Blues",
+		"I'll Go Crazy",
+		"You Got To Move",
+		"Le Jig Creole",
+		"Guilbeau Pelican & Napoleon's Reel"
+	],
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/81ab2sfYhML._SL1194_.jpg",
+	"imgUrl" : "https://www.amazon.com/Bamako-Carencro-Beausoleil/dp/B00AA9QJI8/ref=sr_1_1?s=music&ie=UTF8&qid=1480634219&sr=1-1&keywords=beausoleil+from+bamako+to+carencro"
+}
+{
+	"title" : "Alligator Purse",
+	"year" : "2009",
+	"songs" : [
+		"Reel Cajun(451 North St. Joseph St.)",
+		"Rouler et Tourner",
+		"Cariere Zydeco",
+		"Little Darlin'",
+		"Marie",
+		"Valse a BeauSoleil",
+		"Bosco Stomp",
+		"Theogene Creole",
+		"I Spent All My Money Loving You",
+		"Les Oignons",
+		"The Problem",
+		"Alligator Purse",
+		"Valse a Thomas Ardoin"
+	],
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51Fptm9f6BL.jpg",
+	"imgUrl" : "https://www.amazon.com/Alligator-Purse-Beausoleil/dp/B001KZLI8C/ref=sr_1_1?s=music&ie=UTF8&qid=1480634353&sr=1-1&keywords=beausoleil+alligator+purse"
+}
+{
+	"title" : "Make the Veiller",
+	"year" : "2009",
+	"songs" : [
+		"Acadian Two Step",
+		"Reel de Dennis McGee",
+		"Tu Peut Pas Me Refuser",
+		"Cajun Crawl",
+		"Klfy Waltz",
+		"Grand Mallett",
+		"Evangeline Waltz",
+		"Zydeco Gris Gris",
+		"Reel de Nez-Pique",
+		"La Valse des Grandes Meches",
+		"Jig Francais",
+		"Mardi Gras Song",
+		"Jeunes Filles de la Compagne",
+		"Bye Bye Boozoo"
+	],
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51SXYS7nOzL.jpg",
+	"imgUrl" : "https://www.amazon.com/Make-Veiller-CD-DVD-Deluxe/dp/B0025X4P3S/ref=sr_1_1?s=music&ie=UTF8&qid=1480634414&sr=1-1&keywords=beausoleil+make+the+veiller"
+}
+{
+	"title" : "Encore, Encore!! The Best of BeauSoleil (1991-2001)",
+	"year" : "2003",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51PGEYPJKGL.jpg",
+	"imgUrl" : "https://www.amazon.com/Encore-Best-Beausoleil-1991-2001/dp/B00007LTID/ref=sr_1_1?s=music&ie=UTF8&qid=1480634458&sr=1-1&keywords=beausoleil+encore+encore",
+	"songs" : [
+		"La Danse De La Vie",
+		"Conja (New Orleans)",
+		"Le Chanky-Chank Francais",
+		"Sur Le Pont De Lyon",
+		"Tasso/McGee's Reel",
+		"Quelle Belle Vie",
+		"Chanson Pour Ezra",
+		"O Bebe Waltz",
+		"L'Amour Ou La Folie",
+		"Freeman's Zydeco",
+		"I Can't See",
+		"Evangeline Waltz",
+		"La Terre De Mon Grandpere",
+		"Ma Vie S'est Arretee",
+		"Cajunization Blues",
+		"Cubano Bayou",
+		"L'Amour Poisonne",
+		"Recherche D'Acadie",
+		"Varise (Live,2000)"
+	]
+}
+{
+	"title" : "Best of the Crawfish Years",
+	"year" : "2001",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/5119szy%2BpcL.jpg",
+	"imgUrl" : "https://www.amazon.com/Best-Crawfish-Years-Beausoleil/dp/B00005PJBU/ref=sr_1_1?s=music&ie=UTF8&qid=1480634537&sr=1-1&keywords=beausoleil+best+of+the+crawfish+years",
+	"songs" : [
+		"Maman Rosin Boudreaux",
+		"Pine Grove Blues",
+		"La Chanson du Cafe",
+		"Jongle a moi",
+		"Bunk's Blues",
+		"Cochon De Lait",
+		"Zydeco Gris Gris",
+		"Cajun Groove",
+		"Woman Or A Man",
+		"Chez Seychelles",
+		"Hey Baby, Quoi ca Dit?",
+		"Macaque Sur Mon Dos",
+		"Reel de Dennis McGee",
+		"Valse Bebe",
+		"It's You I Love",
+		"Johnny Peut Pas Dancer",
+		"Bon Temps Rouler"
+	]
+}
+{
+	"title" : "The Very Best of BeauSoleil",
+	"year" : "1998",
+	"image" : "https://img.discogs.com/zB7aeoNC59ovVhMdptN6qBkIalg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6688893-1424666372-8543.jpeg.jpg",
+	"imgUrl" : "https://www.discogs.com/Beausoleil-The-Very-Best-Of-Beausoleil/release/6688893",
+	"songs" : [
+		"Zydeco Gris-Gris",
+		"Cajun Telephone Stomp",
+		"Evangeline Waltz",
+		"Cajun Crawl",
+		"La Nuit De Clifton Chenier (Clifton's Night)",
+		"Menage A Trois Reel",
+		"Conja (New Orleans 1786)",
+		"Le Jig Francais",
+		"L'Ouragon",
+		"Joe Falcon's Waltz",
+		"Tasso/McGee's Reel (Medley)",
+		"Chanson Pour Ezra",
+		"Freeman's Zydeco",
+		"Sur Le Pont De Lyon",
+		"Quelle Belle Vie",
+		"Hip Et Ti-Yeaux",
+		"R.D.Special",
+		"Zydeco X"
+	]
+}
+{
+	"title" : "The Best of BeauSoleil",
+	"year" : "1997",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/61a47OiUWOL.jpg",
+	"imgUrl" : "https://www.amazon.com/Best-Beausoleil-BEAUSOLIEL/dp/B0000001LD/ref=sr_1_1?s=music&ie=UTF8&qid=1480634634&sr=1-1&keywords=beausoleil+best+of+beausoleil",
+	"songs" : [
+		"Parlez-Nous A Boire",
+		"Tous Les Deux Pour La Meme",
+		"J'ai Ete Au Zydeco",
+		"Voyage Au Mariage",
+		"Courtableau",
+		"La Valse Des Jonglemonts",
+		"Mercredi Soir Passe",
+		"Grand Mallet",
+		"Bee's Blues",
+		"Shoo, Black",
+		"Leger's Chase (The Mardi Gras Song)",
+		"Je Veux Me Marier",
+		"Valse De Grand Meche",
+		"Joe Pitre's So Bad",
+		"Creole French Blues",
+		"Chanson D'Acadie",
+		"Le Bozo Two-Step",
+		"Si J'aurais Des Ailes",
+		"Chez Varise Connor",
+		"La Chanson De Cinquante Sous",
+		"La Valse Du Vacher",
+		"Hot Chili Mama"
+	]
+}
+{
+	"title" : "Vintage BeauSoleil: Live Music of the World",
+	"year" : "1995",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51V1zDfmNPL.jpg",
+	"imgUrl" : "https://www.amazon.com/Vintage-Beausoleil/dp/B000003ITL/ref=sr_1_1?s=music&ie=UTF8&qid=1480634685&sr=1-1&keywords=beausoleil+vintage+beausoleil",
+	"songs" : [
+		"Acadian Two-Step",
+		"Belle",
+		"Think of Me",
+		"Cowboy Waltz",
+		"Parlez-Nous A Boire",
+		"Tous Les Deux Pour La Meme",
+		"Reel De Dennis McGee",
+		"La Valse De BeauSoleil",
+		"Contredanse de Robin",
+		"Pauline",
+		"Courtableau",
+		"Maman Rosin",
+		"Take It To Me"
+	]
+}
+{
+	"title" : "Laissez Les Bons Temps Rouler",
+	"year" : "2010",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/71eJSWdbZKL._SL1073_.jpg",
+	"imgUrl" : "https://www.amazon.com/Laissez-Bons-Temps-Rouler-Beausoleil/dp/B003QTBU3S/ref=sr_1_1?s=music&ie=UTF8&qid=1480634758&sr=1-1&keywords=beausoleil+laissez+bons+temps+rouler",
+	"songs" : [
+		"Acadian Two-Step",
+		"Reel de Dennis McGee",
+		"Tu Peut Pas Me Refuser",
+		"Cajun Crawl",
+		"Kify Waltz",
+		"Grand Mallett",
+		"Evangeline Waltz",
+		"Zydeco Gris Gris",
+		"La Valse des Grandes Meches",
+		"Jig Francais",
+		"Mardi Gras Song",
+		"Jeunes Filles de la Compagne",
+		"Sur le Courtableau",
+		"Chere Bebe",
+		"Chanson D'Acadie",
+		"Reel de Nez-Pique"
+	]
+}
+{
+	"title" : "Live at the 2008 New Orleans Jazz Festival",
+	"year" : "2009",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/6163SZKD64L.jpg",
+	"imgUrl" : "https://www.amazon.com/Beausoleil-Live-Orleans-Heritage-Festival/dp/B00079I0AQ",
+	"songs" : [
+		"Reel De Dennis McGee",
+		"Newz Reel",
+		"Happy One-Step",
+		"Recherche d'Acadie",
+		"Le Chanky-Chank Francais",
+		"Eunice Two Step",
+		"Amede",
+		"La Danse De La Vie",
+		"Grand Mamou",
+		"Zydeco X",
+		"Poison Love",
+		"La Terre de Mon Grandpere"
+	]
+}
+{
+	"title" : "Live in Louisiana",
+	"year" : "2006",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51N2KBBA7WL.jpg",
+	"imgUrl" : "https://www.amazon.com/Live-Louisiana-Michael-Doucet/dp/B000G8PC4U",
+	"songs" : [
+		"Le Jig Francais",
+		"Chanson D'Acadie",
+		"Bunk's Blues",
+		"Flammes D'Enfer",
+		"Conji",
+		"Ti Monfe",
+		"Tasso/One Step De McGee",
+		"L'Ouragon",
+		"Quelle Belle Vie",
+		"Freeman's Zydeco",
+		"Newz Reel",
+		"Bye Bye Boozoo"
+	]
+}
+{
+	"title" : "Looking Back Tomorrow",
+	"year" : "2001",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/71wcVXek40L._SL1083_.jpg",
+	"imgUrl" : "https://www.amazon.com/Looking-Back-Beausoleil-Live/dp/B000056CE7",
+	"songs" : [
+		"J'ai Ete Au Bal",
+		"Bons Temps Rouler",
+		"Pa Janvier",
+		"Parlez-Nous A Boire",
+		"Amede",
+		"Varise",
+		"Travailler C'est Trop Dur",
+		"It's You I Love",
+		"Grand Mamou",
+		"Pierrot Grouillette & Madamoiselle Josette",
+		"Zydeco X",
+		"Ma Douce Amie",
+		"Quoi 'Y A Toi",
+		"Perky Dance Two-Step",
+		"Bon Soir, Tous Mes Amis"
+	]
+}
+{
+	"title" : "Cajunization",
+	"year" : "1999",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/61QcijUCPuL.jpg",
+	"imgUrl" : "https://www.amazon.com/Cajunization-Beausoleil/dp/B00124HTNE/ref=sr_1_1?s=music&ie=UTF8&qid=1480635388&sr=1-1&keywords=beausoleil+cajunization",
+	"songs" : [
+		"La Terre De Mon Grandpere (My Grandfather's Land)",
+		"Cajunization Blues",
+		"Happy One-Step",
+		"L'Amour Poisonne (Poison Love)",
+		"La Reine de Coeur (The Queen of Hearts)",
+		"Cubano Bayou",
+		"Chanson Pour Tommy (Song for Tommy)",
+		"Zarico Boogie",
+		"Recherche D'Acadie (In Search of Acadie)",
+		"Les Nuits a Maui (Maui Nights)",
+		"Les Blues de Chaleur (Hot Blues)",
+		"One-Step A Choupique",
+		"Atchafalaya Pipeline"
+	]
+}
+{
+	"title" : "L'Amour Ou La Folie",
+	"year" : "1997",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51fl9GRjl8L.jpg",
+	"imgUrl" : "https://www.amazon.com/LAmour-ou-Folie-Beau-Soleil/dp/B0000033Y5/ref=sr_1_1?s=music&ie=UTF8&qid=1480635475&sr=1-1&keywords=beausoleil+l%27amour+ou+la+folie",
+	"songs" : [
+		"Newz Reel",
+		"Les Blues de Creve de Faim",
+		"L'Amour Ou La Folie",
+		"It's a Sin To Tell A Live (C'est un Peche de Dire un Menterie)",
+		"Eunice Two-Step",
+		"Charivari",
+		"Boudreaux",
+		"Valse a Pop",
+		"Can't You See (Tu Vas Voir)",
+		"Les Blue de la Prison",
+		"Danse Caribe",
+		"Valse J'Aime",
+		"Courir Avec Walker",
+		"Ma Vie S'est Arretee"
+	]
+}
+{
+	"title" : "Arc de Triomphe Two-Step",
+	"year" : "1997",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/417SEMBWWXL.jpg",
+	"imgUrl" : "https://www.amazon.com/Arc-Triomphe-Two-Step-Beausoleil/dp/B000005HA8/ref=sr_1_1?s=music&ie=UTF8&qid=1480635562&sr=1-1&keywords=beausoleil+arc+de+triomphe",
+	"songs" : [
+		"Arc de Triomphe Two Step",
+		"Love Bridge",
+		"Bosco Moscow Stomp",
+		"Jeune Fille A La Campagne",
+		"Bayou Teche",
+		"Johnny Can't Dance",
+		"Travailler C'est Trop Dur",
+		"CIA",
+		"Take It To Me",
+		"Ti Maurice",
+		"Valse De Grand Chemin",
+		"Just Because"
+	]
+}
+{
+	"title" : "L'Echo",
+	"year" : "1994",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51uI0wF8x0L.jpg",
+	"imgUrl" : "https://www.amazon.com/LEcho-Beausoleil/dp/B000005OKN/ref=sr_1_1?s=music&ie=UTF8&qid=1480635662&sr=1-1&keywords=beausoleil+l%27echo",
+	"songs" : [
+		"Chez Denouse McGee",
+		"O Bebe Waltz",
+		"Freeman's Zydeco",
+		"Quel Espoir",
+		"La Ville Des Manteau",
+		"Lizzette La Douce",
+		"Evangeline Waltz",
+		"One Iota",
+		"Joe Falcon's Waltz",
+		"La Cravate A Ziggy Zag",
+		"Chere Petite Blond",
+		"Cajun Crawl",
+		"Angelas' Waltz",
+		"Hip Et Ti-Yeaux!",
+		"La Belle De Bayou Teche"
+	]
+}
+{
+	"title" : "La Danse de la Vie",
+	"year" : "1993",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/41tPqjiRfqL.jpg",
+	"imgUrl" : "https://www.amazon.com/Danse-Vie-Beausoleil/dp/B01M2A7AOL/ref=sr_1_2?s=music&ie=UTF8&qid=1480635749&sr=1-2&keywords=beausoleil+la+danse+de+la+vie",
+	"songs" : [
+		"La Danse de la Vie",
+		"Dans le Grand Brouillard",
+		"L'Ouragon",
+		"Dis-Moi Pas",
+		"Jeunes Filles de la Campagne",
+		"La Fille de Quatorze Ans",
+		"Quelle Belle Vie",
+		"Chanson Pour Ezra",
+		"Menage a Trois Reels",
+		"Zydeco X",
+		"Je Tombe aux Genoux",
+		"Attrape Mes Larmes (Pour Dewey)"
+	]
+}
+{
+	"title" : "Cajun Conja",
+	"year" : "1991",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51zRcj03x3L.jpg",
+	"imgUrl" : "https://www.amazon.com/Cajun-Conja-BEAUSOLEIL/dp/B006HH600O/ref=sr_1_1?s=music&ie=UTF8&qid=1480635846&sr=1-1&keywords=beausoleil+cajun+conja",
+	"songs" : [
+		"Sophie",
+		"Tortue Perdue",
+		"Conja (New Orleans 1786)",
+		"Vieux Crowley",
+		"Sur Le Pont De Lyon (On The Bridge Of Lyon)",
+		"Cajun Telephone Stomp",
+		"La Nuit De Clifton Chenier (Clifton's Night)",
+		"Le Reel De Nez Pique",
+		"Ti Monde",
+		"Le Chanky-Chank Francais",
+		"La Valse De La Poussiere",
+		"Tasso/McGee's Reel"
+	]
+}
+{
+	"title" : "Bayou Cadillac",
+	"year" : "1989",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/41YCwhYlTBL.jpg",
+	"imgUrl" : "https://www.amazon.com/Bayou-Cadillac-Beausoleil/dp/B0000003BM/ref=sr_1_1?s=music&ie=UTF8&qid=1480635945&sr=1-1&keywords=beausoleil+bayou+cadillac",
+	"songs" : [
+		"Bon Temps Rouler",
+		"Rolling Pin",
+		"Valse Bebe",
+		"Hey Baby, Quoi Ca Dit?",
+		"Cochon De Lait",
+		"Not Fade Away/Bo Diddley/Iko Iko",
+		"Flames D'Enfer",
+		"Bunk's Blues",
+		"Le Sud De La Louisiane",
+		"Baby, Please Don't Go",
+		"Macaque Sur Mon Dos",
+		"Island Zydeco"
+	]
+}
+{
+	"title" : "Hot Chili Mama",
+	"year" : "1987",
+	"image" : "https://images-na.ssl-images-amazon.com/images/I/51CEYpI8DVL.jpg",
+	"imgUrl" : "https://www.amazon.com/Hot-Chili-Mama-Beausoleil/dp/B0000001N3/ref=sr_1_1?s=music&ie=UTF8&qid=1480636022&sr=1-1&keywords=beausoleil+hot+chili+mama",
+	"songs" : [
+		"Acadian Two-Step",
+		"Les Bons Temps Rouler Waltz",
+		"Joe Pitre's So Bad",
+		"Canray's Contredanse",
+		"La Chanson De Cinquante Sous",
+		"Je Veux Me Marier",
+		"Chanson De Sagesse",
+		"Hot Chili Mama",
+		"I'm in Love With One, But Married To Another",
+		"The Mosquito That Ate Up My Sweetheart in New Iberia Polka",
+		"Grand Mallet",
+		"Belle",
+		"Oberlin Two-Step"
+	]
+	}
+  {
+  	"title" : "Belizaire The Cajun (soundtrack)",
+  	"year" : "1986",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/51oAM-1UUML._SS500.jpg",
+  	"imgUrl" : "https://www.amazon.com/Belizaire-Original-Soundtrack-Michael-Beausoleil/dp/B004VQL936/ref=sr_1_4?s=music&ie=UTF8&qid=1480636228&sr=8-4&keywords=belizaire+the+cajun",
+  	"songs" : [
+  		"Opening Titles (Madame Sosthene)",
+  		"Contradanse De Doucet",
+  		"Petit Jean Peut Pas Danser",
+  		"Madame Etienne",
+  		"La Traiteur",
+  		"Belizaire's Arrest (Danse Carre)",
+  		"Vigilante Nightride (Mardi Gras Song)",
+  		"Grand Mallet",
+  		"Round-up (Hippy Ti Yo/Wayne's Reel)",
+  		"Chanson De Vermillion",
+  		"Matthew Est Mort (Pauline)",
+  		"Funeral (Mon Mari Est Mort)",
+  		"Leger's Chase (Mardi Gras Song)",
+  		"La Visite Au Condamne",
+  		"Closing Theme (Madame Sosthene)"
+			]
+  }
+  {
+  	"title" : "Zydeco Gris Gris",
+  	"year" : "1985",
+  	"image" : "https://img.discogs.com/qnvuWKCmzRpUASG_oi-g01yEa7E=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2207838-1273866787.jpeg.jpg",
+  	"imgUrl" : "https://www.discogs.com/Beausoleil-Zydeco-Gris-Gris/release/2207838",
+  	"songs" : [
+  		"J'Ai Vu Le Loup",
+  		"Valse A Beausoleil",
+  		"Two-Step Des Freres Mathieu",
+  		"Travailler, C'Est Trop Dur",
+  		"Avant Duex De Poitou",
+  		"Reel De Marcantel",
+  		"Bascomb Mouton's Jig",
+  		"Acadian Two-Step",
+  		"He, Mom",
+  		"Valse Des Balfa",
+  		"Zydeco Gris-Gris",
+  		"Les Barres De La Prison",
+  		"Hommage Aux Freres Balfa"
+  	]
+  }
+  {
+  	"title" : "Dit BeauSoleil",
+  	"year" : "1982",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/91Z-mqXAB5L._SL1500_.jpg",
+  	"imgUrl" : "https://www.amazon.com/Dit-Beausoleil/dp/B003TLRUQO/ref=sr_1_1?ie=UTF8&qid=1480694649&sr=8-1&keywords=beausoleil+dit+beausoleil",
+  	"songs" : [
+  		"Two-Step A La Will Balfa",
+  		"Donnez Moi Pauline",
+  		"Le Two-Step A Midland",
+  		"La Valse De Jonglements",
+  		"Acadian Blues",
+  		"La Bal A Chataignier",
+  		"Adieu Rosa",
+  		"Si J'Aurais Des Ailes",
+  		"Awesome Ossun Two-Step",
+  		"Madame Sostain",
+  		"L'Affaire De Perrodin",
+  		"Les Petits Yeux Noirs",
+  		"Le Bozo Two-Step"
+  	]
+  }
+  {
+  	"title" : "Bayou Deluxe",
+  	"year" : "1993",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/41EC0N7G1HL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Bayou-Deluxe-Michael-Doucet-Beausoleil/dp/B0000032YC/ref=sr_1_1?ie=UTF8&qid=1480694731&sr=8-1&keywords=beausoleil+bayou+deluxe",
+  	"songs" : [
+  		"Le Jig Francais",
+  		"Tasso/McGee's Reel",
+  		"Madame Sosthene",
+  		"Zydeco Gris-Gris",
+  		"Blues A Bebe",
+  		"Je M'Endors",
+  		"Dimanche Apres-Midi",
+  		"Vieux Crowley",
+  		"La Chanson De Mardi Gras",
+  		"Travailler, C'Est Trop Dur",
+  		"J'Ai Ete Au Zydeco",
+  		"Chez Seychelles",
+  		"Baby, Please Don't Go",
+  		"Les Bons Temps Rouler Waltz",
+  		"Awesome Osson Two-Step",
+  		"Donnez Moi Pauline",
+  		"Flammes D'Enfer",
+  		"Sur Le Pont De Lyon"
+  	]
+  }
+  {
+  	"title" : "Deja Vu",
+  	"year" : "1990",
+  	"image" : "http://c3.cduniverse.ws/resized/630x630/music/624/1078624.jpg",
+  	"imgUrl" : "https://www.amazon.com/Deja-Vu-Michael-Doucet-Beausoleil/dp/B00BKTU988/ref=sr_1_1?ie=UTF8&qid=1480694833&sr=8-1&keywords=beausoleil+deja+vu",
+  	"songs" : [
+  		"Blues a Bebe",
+  		"Les Valse Des Balfa",
+  		"Les Veuves De La Coulee",
+  		"Je M'Endors",
+  		"Belle",
+  		"Arc D'Triomphe Two Step",
+  		"Zydeco Gris Gris",
+  		"Love Bridge Waltz",
+  		"Bonne Annee",
+  		"Les Barres De La Prison",
+  		"Two Step De Freres Mathieu",
+  		"FiFi Poncho",
+  		"Hommage Aux Freres Balfa",
+  		"Talle D'Eronces",
+  		"Travailler C'Est Trop Dur",
+  		"Potpourri Cadjin",
+  		"Hey Mom",
+  		"Auld Lang Syne"
+  	]
+  }
+  {
+  	"title" : "Live! From the Left Coast",
+  	"year" : "1989",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/51udUzAJfXL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Live-Left-Coast-Beausoleil/dp/B0000003C6",
+  	"songs" : [
+  		"Les Vueves De La Coulee",
+  		"La Chanson De Mardi Gras",
+  		"Plus tu Tournes",
+  		"Pine Grove Blues",
+  		"Les Filles A Nonc Helaire",
+  		"La Valse de Kify",
+  		"La Chanson du Cafe",
+  		"La Betaille",
+  		"Cajun Groove (Scott Playboy Special)",
+  		"Chez Seychelles",
+  		"Maman Rosin au Zydeco Bal",
+  		"Two-Step A Will Balfa",
+  		"Reel de Dennis McGee"
+  	]
+  }
+  {
+  	"title" : "Bayou Boogie",
+  	"year" : "1986",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/51Lq%2BO-CewL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Bayou-Boogie-Beausoleil/dp/B0056D6N0C/ref=sr_1_1?ie=UTF8&qid=1480695073&sr=8-1&keywords=beausoleil+bayou+boogie",
+  	"songs" : [
+  		"Zydeco Gris Gris",
+  		"Fais Pas Ca",
+  		"It's You I Love",
+  		"Dimanche Apres-Midi",
+  		"Madame Bozo",
+  		"Kolinda",
+  		"Maman Rosin Boudreaux",
+  		"Chez Seychelles",
+  		"Jongle A Moi",
+  		"The Flame Will Never Die",
+  		"La Valse Du Malchanceux",
+  		"Beausoleil Boogie"
+  	]
+  }
+  {
+  	"title" : "Allons A Lafayette",
+  	"year" : "1986",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/61kj72U2fUL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Allons-Lafayette-Beausoleil-Michael-Doucet/dp/B004JKJYU4/ref=sr_1_1?ie=UTF8&qid=1480695141&sr=8-1&keywords=beausoleil+allons+a+lafayette",
+  	"songs" : [
+  		"Allons A Lafayette",
+  		"Tous Les Deux Pour La Meme",
+  		"Pauvre Hobo",
+  		"Mon Vieux Wagon",
+  		"La Jolie Blonde",
+  		"Johnny Can't Dance",
+  		"J'Ai Ete Au Zydeco",
+  		"Les Blues A Canray",
+  		"J'Ai Marie Un Ouvrier",
+  		"La Valse Du Vacher",
+  		"La Table Ronde",
+  		"Shoo, Black",
+  		"Canray's Breakdown",
+  		"Donnez Moi Pauline",
+  		"Two Step A Will Balfa",
+  		"La Valse Des Jonglemonts",
+  		"Le Bal A Chataignier"
+  	]
+  }
+  {
+  	"title" : "Parlez Nous Au Boire",
+  	"year" : "1984",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/51iTlKlnRvL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Parlez-Nous-Boire-Beausoleil-Michael-Doucet/dp/B004JX5T1E/ref=sr_1_fkmr0_2?ie=UTF8&qid=1480695276&sr=8-2-fkmr0&keywords=beausoleil+parlez+nous+a+bore",
+  	"songs" : [
+  		"Le Jig Francais",
+  		"Voyage Au Mariage",
+  		"Courtableu",
+  		"La Rue Canal",
+  		"Paquet D'Epingles",
+  		"Valse de Grand Meche",
+  		"Mercredi Soir Passe",
+  		"Sue",
+  		"Reels Cadien",
+  		"Chanson D'Acadie",
+  		"Pierrot Grouillette et Mamselle Josette",
+  		"Ma Douce Amie",
+  		"Parlez-Nous A Boire",
+  		"Your Mama Threw Me Out",
+  		"Robin's Two Step",
+  		"Acadian Blues",
+  		"Midland Two Step",
+  		"Le Bozo Two Step"
+  	]
+  }
+  {
+  	"title" : "The Spirit of Cajun Music/Louisiana Cajun Music Swallow",
+  	"year" : "1978",
+  	"image" : "https://img.discogs.com/vT3gU_yZhBD7G9pUlA-XWbg6zEM=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3760090-1475339451-4310.jpeg.jpg",
+  	"imgUrl" : "https://www.discogs.com/Beausoleil-The-Spirit-Of-Cajun-Music/release/3760090",
+  	"songs" : [
+  		"Chanson (Instrumental)",
+  		"Love Bridge Waltz",
+  		"Tu Peux Cognac",
+  		"Contredanse De Mamou (Instrumental)",
+  		"Travailler C'est Trop Dur",
+  		"Reel du Dennis McGee (Instrumental)",
+  		"Blues A Bebe",
+  		"Talle Du Ronces",
+  		"Blues De Morse",
+  		"Fi Fi A Poncho",
+  		"J'ai Fait La Tour De Grand Bois",
+  		"Je M'Endors",
+  		"Valse De Grand Bois",
+  		"Troubadour Song"
+  	]
+  }
+  {
+  	"title" : "From Now On",
+  	"year" : "1998",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/71l51AuneHL._SL1050_.jpg",
+  	"imgUrl" : "https://www.amazon.com/Now-Michael-Doucet/dp/B00157DOPA",
+  	"songs" : [
+  		"Everything I Do Gonna Be Funky",
+  		"Le Two-Step de Basile",
+  		"Bee de la Manche",
+  		"Madame Boudreaux",
+  		"Chez Denouse",
+  		"A Closer Walk with Thee/I Know",
+  		"Reels de Mamou",
+  		"L'Amour Ou La Folie",
+  		"Fonky Bayou",
+  		"Amedee's Accordion",
+  		"Contredanse de Mamou",
+  		"Brasse le Gombo Vite (Stir the Gombo Fast)",
+  		"New Orleans",
+  		"Wade's Two-Step",
+  		"Chere Evangeline",
+  		"Happy One-Step",
+  		"Madame Young",
+  		"St. Louis Blues",
+  		"You Gotta Move"
+  	]
+  }
+  {
+  	"title" : "Mad Reel & Belizaire The Cajun",
+  	"year" : "1994",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/51LOdS-Pp3L.jpg",
+  	"imgUrl" : "https://www.amazon.com/Mad-Reel-MICHAEL-BEAUSOLEIL-DOUCET/dp/B0000001JI",
+  	"songs" : [
+  		"Adieu Roza",
+  		"Si J'aurais Des Ailes",
+  		"Cajun Reel",
+  		"Cajun Midnight Waltz",
+  		"Pierrot Grouillette Et Mamselle Josette",
+  		"Contredanse",
+  		"Madame Sosthene",
+  		"L'Affaire De Perrodin",
+  		"J'Ai Ete Au Bal",
+  		"Les Petits Yeux Noirs",
+  		"Awesome Ossun Two-Step",
+  		"The Mad Reel",
+  		"La Valse De Penitentiare",
+  		"La Reel De Barza",
+  		"Belizaire Soundtrack/Opening Titles",
+  		"Contredanse De Doucet",
+  		"Petit Jean Peut Pas Danser (Johnny Can't)",
+  		"Madame Etienne",
+  		"Le Traiteur",
+  		"Belizaire's Arrest",
+  		"Grand Mallet",
+  		"Round-Up",
+  		"Chanson De Vermillion",
+  		"Matthew Est Mort",
+  		"Funeral",
+  		"Leger's Chase (The Mardi Gras Song)",
+  		"La Visite Au Condamne",
+  		"Closing Theme: Madame Sosthene"
+  	]
+  }
+  {
+  	"title" : "Le Hoogie Boogie: French Music for Children",
+  	"year" : "1991",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/61-NPU8ovrL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Hoogie-Boogie-Louisiana-French-Children/dp/B0000003FR",
+  	"songs" : [
+  		"Petit Galop Pour Mamou",
+  		"Mon Cheval",
+  		"Le Hoogie Boogie",
+  		"Deux Cocodries",
+  		"Zydeco Gris Gris Rap",
+  		"La Cravate a Zig et Zag",
+  		"A, B, C et 1, 2, 3",
+  		"O mes Jolies Dames",
+  		"Jolie Blonde",
+  		"Sue",
+  		"O'Guillori",
+  		"L'arc en Ciel",
+  		"Paquet d'Epingles",
+  		"Rond, Rond, p'tit Marais",
+  		"Les Maringouins ont Tous Mange Ma Belle",
+  		"Allons Danser, Colinda",
+  		"La Chnason de Cinquante Sous",
+  		"Aveine, Aveine",
+  		"Johnny Peut Pas Danser",
+  		"La Petit Poule Blanche/Fais Do Do"
+  	]
+  }
+  {
+  	"title" : "Cajun Brew",
+  	"year" : "1988",
+  	"image" : "http://cps-static.rovicorp.com/3/JPG_1080/MI0001/605/MI0001605118.jpg?partner=allrovi.com",
+  	"imgUrl" : "https://www.amazon.com/Michael-Doucet-Cajun-Brew/dp/B01EIUPA0M/ref=sr_1_fkmr0_1?ie=UTF8&qid=1480695787&sr=8-1-fkmr0&keywords=beausoleil+cajun+brew",
+  	"songs" : [
+  		"Wooly Bully",
+  		"Bayou Pom Pom",
+  		"Un Autre Soir Ennuyant",
+  		"Hey, Good Looking",
+  		"Last Wednesday Night",
+  		"Louie, Louie",
+  		"Woman Or A Man",
+  		"Pauline",
+  		"Zydeco Boogaloo",
+  		"Like A Real Cajun",
+  		"J'ai Passe Devant Ta Porte",
+  		"Do You Want To Dance"
+  	]
+  }
+  {
+  	"title" : "Beau Solo",
+  	"year" : "1990",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/6107oHMfNfL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Beau-Solo-MICHAEL-DOUCET/dp/B0000001GB",
+  	"songs" : [
+  		"Grand Tasso",
+  		"Valse Acadienne",
+  		"One-Step D'Amedee",
+  		"La Valse D'Amedee",
+  		"Contradanse De Freeman",
+  		"Bee's Blues",
+  		"Valse A Pop McGee",
+  		"Blues Acadiens",
+  		"Isabeau Se Promene",
+  		"Grand Mamou",
+  		"Perrodin Two-Step",
+  		"Chez Varise Connor",
+  		"La Betaille",
+  		"Gigue D'Acadie",
+  		"Wade's Waltz",
+  		"Sept Ans Sur Mer",
+  		"Creole French Blues",
+  		"La Malheureuse",
+  		"Valse D'Avant-Hier",
+  		"Two-Step D'Ambrose",
+  		"La Valse D'Auguste Breaux",
+  		"Two-Step De Maman"
+  	]
+  }
+  {
+  	"title" : "Christmas Bayou",
+  	"year" : "1986",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/21zlDoLg3mL.jpg",
+  	"imgUrl" : "https://www.amazon.com/Christmas-Bayou-Michael-Doucet/dp/B00ILB108G/ref=sr_1_1?ie=UTF8&qid=1480696084&sr=8-1&keywords=michael+doucet+christmas+bayou",
+  	"songs" : [
+  		"We Three Kings (Instrumental)",
+  		"It Came Upon A Midnight Clear (Instrumental)",
+  		"Il Est Ne",
+  		"Vive Le Vent",
+  		"Little Drummer Boy (Instrumental)",
+  		"Deck The Halls (Instrumental)",
+  		"God Rest Ye Merry Gentleman (Instrumental)",
+  		"O Holy Night (Instrumental)",
+  		"Trinquez, Trinquez",
+  		"Bonne Annee",
+  		"Christmas Bayou",
+  		"Please Come Home For Christmas",
+  		"Aul Lang Zyne (Instrumental)"
+  	]
+  }
+  {
+  	"title" : "Peace Stories: Christmas Album with David Doucet and John Fohl",
+  	"year" : "2001",
+  	"image" : "http://images.cdbaby.name/d/o/doucet.jpg",
+  	"imgUrl" : "http://www.cdbaby.com/cd/doucet",
+  	"songs" : [
+  		"Hark! The Herald Angels Sing",
+  		"Peace Stories",
+  		"A Carol A Day",
+  		"O Come All Ye Faithful",
+  		"Il Est Ne, Le Divin Enfant",
+  		"God Rest Ye Merry Gentlemen",
+  		"O Holy Night",
+  		"Medley: It Came Upon a Midnight Clear/We Three Kings/What Child",
+  		"That Spirit of Christmas",
+  		"Little Drummer Boy",
+  		"Trinquez",
+  		"Silent Night",
+  		"Peace in the Valley",
+  		"Nu Tandas Tusan Juleljus (1000 Christmas Lights)"
+  	]
+  }
+  {
+  	"title" : "Gitane Cajun",
+  	"year" : "2004",
+  	"image" : "https://images-na.ssl-images-amazon.com/images/I/71Hc7G0jdRL._SL1050_.jpg",
+  	"imgUrl" : "https://www.amazon.com/Gitane-Cajun-Beausoleil/dp/B0002VER92",
+  	"songs" : [
+  		"Peut Pas Me Refuser",
+  		"Gitane Cajun I",
+  		"La Femme Qui Jouait Aux Cartes",
+  		"La Flech D'Amour",
+  		"Lena Mae",
+  		"Les Fleurs",
+  		"Soleil Brille",
+  		"Bye, Bye Boozoo",
+  		"Le Hack A Moreau",
+  		"Me And Dennis McGee",
+  		"Malinda",
+  		"Windhorse Eyes",
+  		"Tu M'As Fait Rire",
+  		"Sidney Brown",
+  		"Gitane Cajun II"
+  	]
+  }
