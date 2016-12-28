@@ -8,7 +8,7 @@
   </div>
   <div class="container-fluid">
     <h2>Search Results:</h2>
-    <div class="img-thumbnail_search" ng-repeat="album in albums orderBy:'-year'| filter: searchText" ng-if="searchText">
+    <div class="img-thumbnail_search" ng-repeat="album in albums | filter: searchText" ng-if="searchText">
       <div class="col-xs-4 letter-box_search">
         <img ng-src="{{album.image}}" ng-cropper ng-cropper-show="showEvent" width="220" height="220" alt="{{album.name}}" />
         <div class="text_results">
